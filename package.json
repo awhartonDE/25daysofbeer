@@ -1,0 +1,22 @@
+{
+  "name": "25daysofbeer",
+  "version": "0.0.0",
+  "description": "25 days of beer",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/awhartonODU/25daysofbeer.git"
+  },
+  "author": "andrew wharton",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/awhartonODU/25daysofbeer/issues"
+    },
+    "dependencies": {
+      "ejs": "~1.0.0",
+      "express": "~4.9.8"
+    }
+}
